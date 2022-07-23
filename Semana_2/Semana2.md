@@ -2,7 +2,7 @@
 
 ## Semana 2.
 
-Aprendí que: 
+### Aprendí que: 
 
 Print es la forma más efectiva de comandar en Python.
 
