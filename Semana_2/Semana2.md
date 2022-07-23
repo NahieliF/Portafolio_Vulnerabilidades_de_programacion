@@ -2,8 +2,8 @@
 
 ## Semana 2.
 
-### Aprendí que: 
-
+### Python, lo que aprendí: 
+![image](https://user-images.githubusercontent.com/109629371/180621275-ed33b12f-fee2-4670-86f1-79db4d5aac07.png)
 Print es la forma más efectiva de comandar en Python.
 
 Hay dos versiones diferentes de Python, la 2 y la 3.
