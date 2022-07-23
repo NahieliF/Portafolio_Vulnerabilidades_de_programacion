@@ -29,5 +29,3 @@ Las variables con valores "falsas" o "negativas" pueden ser llamadas booleans.
 Las variables se pueden convertir en un tipo de dato diferente. De integer a cadena o decimal, de cadena a numérico o de cadena o integer a decimal.
 
 ![image](https://user-images.githubusercontent.com/109629371/180620857-ed06b040-9ae4-4b1e-965e-251cecd2be5d.png)
-
-https://www.codecademy.com/workspaces/62dc2fab92e51c6f20fa03f0
