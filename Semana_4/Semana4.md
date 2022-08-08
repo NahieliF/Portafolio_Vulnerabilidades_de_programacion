@@ -32,3 +32,5 @@ La declaración “else” complementa la de if. Sirve para imprimir “si la ex
 A diferencia de if, else no depende de una expresión.
 
 “elif” es una condicional válida para “else if”, significa “de lo contrario, si la siguiente expresión es verdadera, ejecuta este código”.
+
+![image](https://user-images.githubusercontent.com/109629371/183336153-57742378-c3f1-4429-9371-77ba0a411849.png)
