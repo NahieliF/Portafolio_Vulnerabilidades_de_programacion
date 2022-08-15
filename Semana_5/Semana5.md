@@ -4,7 +4,7 @@
 
 ## Python, lo que aprendí:
 ![182055350-080973f9-d1e2-4d12-9227-761076143857](https://user-images.githubusercontent.com/109629371/184563524-66aa84c4-fc51-4f6a-b4c8-3c115a51541f.png)
-Hay una función llamada grade_converter().
+Comenzaron explicando que hay una función llamada grade_converter().
 El propósito de esa función es tomar un número del 1 al 100, definido por la función grade y regresarla a su letra correspondiente (A, B, C, D o F).
 
 Con esta función se puede utilizar las instrucciones vistas en la semana anterior (if, elif y else).
@@ -30,4 +30,5 @@ Cuando terminas una parte de tu programa, es importante testearlo múltiples vec
 Podemos acceder a una porción de una palabra usando s[1:4], que devolvería desde la letra en posición 1 hasta la cuarta.
 
 Todo lo anterior lo proporcionaron para poder comenzar a escribir con Pig Latin.
+
 ![image](https://user-images.githubusercontent.com/109629371/184563686-ec13f826-9e3b-4bc5-b8d8-900230f5ade8.png)
