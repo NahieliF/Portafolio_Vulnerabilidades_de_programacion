@@ -1,4 +1,3 @@
-
 #Entregable SEP, Portafolio 7.
 
 #Utilizando el loop "for".
