@@ -33,3 +33,5 @@ Método 1, por item en lista. Es útil para recorrer la lista, pero no se puede 
 Método 2, a través de índices. Permite recorrer la lista y también modificarla.
 
 Usar múltiples listas en una función es igual a usar múltiples argumentos en una función.
+
+![image](https://user-images.githubusercontent.com/109629371/188505797-6d3e47cd-2c51-4414-8fde-3de94c996d38.png)
