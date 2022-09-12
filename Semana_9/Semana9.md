@@ -27,3 +27,4 @@ Definir que, si la ubicación real del barco y la suposición coinciden, acertó
 Permitir 4 intentos antes de que pierdan, si pierden, sólo se saldrá del juego notificándole que perdió.
 
 Probar el juego.
+![image](https://user-images.githubusercontent.com/109629371/189576961-65e59d14-b1f2-40f2-8699-a7ca0dd56525.png)
